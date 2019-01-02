@@ -1,1 +1,2 @@
 # EZ-Life
+# Quick-Shop
